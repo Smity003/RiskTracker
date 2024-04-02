@@ -1,6 +1,6 @@
 # RiskTracker
 
-To run this tool follow folllowing instructions
+To run this tool follow folllowing instructions carefully
 
 1.First extract the folder where Risktracker and PHP project file should be in same folder
 
